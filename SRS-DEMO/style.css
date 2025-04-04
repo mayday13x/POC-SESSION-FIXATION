@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+.container { max-width: 1000px; margin: 0 auto; }
+.nav { display: flex; gap: 15px; margin-bottom: 20px; }
+.nav a { text-decoration: none; padding: 5px 10px; background-color: #007bff; color: white; border-radius: 3px; }
+.attack-section { background-color: #f8d7da; padding: 15px; border-radius: 5px; margin-bottom: 20px; }
+.code { background-color: #272822; color: #f8f8f2; padding: 15px; border-radius: 5px; overflow-x: auto; }
+.info { background-color: #e2f0fd; padding: 15px; border-radius: 5px; margin-top: 20px; }
+
+form div { margin-bottom: 10px; }
+label { display: block; margin-bottom: 5px; }
+input[type="text"], input[type="password"] { padding: 8px; width: 100%; max-width: 300px; }
+button { padding: 8px 15px; background-color: #28a745; color: white; border: none; border-radius: 3px; cursor: pointer; }
